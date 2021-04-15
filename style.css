@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+}
+
+body {
+   
+    background-image: url(https://wallpaperaccess.com/full/1261215.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+    
+}
+
+h1 {
+    font-family: 'Barlow Condensed';
+    font-weight: bold;
+    text-shadow: rgb(0 255 255) 4px -0.5px 0px, rgb(255 0 0) -4px 0.5px 0px;
+    color: rgb(0, 0, 0);  
+    font-size: 100px;    
+    
+}
+
+h3 {
+    font-family: 'Poppins';
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+}
